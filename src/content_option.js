@@ -1,4 +1,4 @@
-const logotext = "Kami developer";
+const logotext = "Kami Developer";
 const meta = {
      title: "Kami Web Development",
     description: "Portfolio website of Kami Web Development, showcasing web development, UI/UX, and design projects.",
@@ -140,10 +140,11 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/insha143",
-    facebook: "https://facebook.com",
-    linkedin: "https://www.linkedin.com/in/muhammad-insha-8a86ab2a2/",
-    twitter: "https://twitter.com",
+  github: "https://github.com/insha143",
+  facebook: "https://facebook.com",
+  linkedin: "https://www.linkedin.com/in/muhammad-insha-8a86ab2a2/",
+  twitter: "https://twitter.com",
+  whatsapp: "https://wa.me/+966572857593", // better for direct chat
 };
 export {
     meta,
