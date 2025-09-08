@@ -19,22 +19,33 @@ const dataabout = {
     title: "abit about my self",
     aboutme: "Hi, We are, a passionate web developer and graphic designer. I love creating beautiful, user-friendly websites and eye-catching designs that help businesses and individuals stand out. With a focus on creativity, functionality, and attention to detail, I turn ideas into digital experiences that make an impact.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+const worktimeline = [
+  {
+    jobtitle: "Frontend Developer",
+    where: "Ezhar Travel",
+    date: " Present",
+    description: "Developed RESTful APIs, managed MongoDB & MySQL databases, and implemented authentication & security using JWT and Passport.js."
+  },
+  {
+    jobtitle: "Full Stack Developer (Node.js & React)",
+    where: "Software House GreeSoft",
+    date: "2022 - 2024",
+    description: "Built and maintained client projects, collaborated in Agile teams, and deployed applications using Docker and AWS."
+  },
+  {
+    jobtitle: "WordPress Developer",
+    where: "BN Movers",
+    date: "2023",
+    description: "Designed and customized WordPress websites, implemented plugins, optimized performance, and ensured responsive design."
+  },
+  {
+    jobtitle: "WordPress",
+    where: "Freelance Projects",
+    date: "Remote",
+    description: "Maintained client WordPress sites, integrated APIs, and handled backend fixes and updates."
+  }
 ];
+
 
 const skills = [{
         name: "Python",
